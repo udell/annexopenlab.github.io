@@ -1,0 +1,12 @@
+
+/* Backgrounds */
+
+.bg-tangerine {
+  --bs-bg-opacity: 1;
+  background-color: #f18508 !important;
+}
+
+.bg-blueberry {
+  --bs-bg-opacity: 1;
+  background-color: #2761ef !important;
+}
